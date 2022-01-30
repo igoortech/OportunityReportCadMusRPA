@@ -33,7 +33,7 @@ def GET_OPORTUNITIES(driver:webdriver)->List:
         {
             "Oportunity": box['name'],
             "Locale": box['cidade_Regi_o__c'],
-            "Detail": box['descricao_da_vaga__c'].replace("<br>", "s")
+            "Detail": box['descricao_da_vaga__c'].replace("<br>", "")
         }
 
         for box in STORAGE_DETAILS
