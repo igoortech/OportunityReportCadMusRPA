@@ -2,7 +2,7 @@
 
 > Status: ready to homolog ⚠️
 
-### This RPA Solution must open the CadMus Page, get all oportunities enable and genarate a Excel File and send to the area analyze
+### This RPA Solution must open the CadMus Page, get all oportunities enable and genarate an Excel File and send to the area analyze
 
 ## STEP-1 OPEN_PAGE
 + When we open the page we need only  WAIT for the elements appear
