@@ -19,7 +19,7 @@
 
 ## STEP-4 SEND_EMAIL_TO_AREA
 + Using a script lib path Libs/SednEmail.py we  are able to send e-mail
-+ to the are with the excel generate⚠
++ to the are with the excel generate
   #### This step require a SMTP e-mail credentials on line 75 file path  "Libs/SendEmail.py" ⚠️
 
 
